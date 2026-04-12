@@ -23,6 +23,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui poderás explorar alguns dos projetos em
 
 ## Como entrar em contacto comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rúben-sousasss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rúben-sousasss/)
 
 *Obrigado por visitares o meu perfil!*
