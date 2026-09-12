@@ -1,6 +1,6 @@
 # Olá, eu sou o Rúben Sousa
 
-Bem-vindo ao meu perfil do GitHub! Aqui poderás explorar alguns dos projetos em que tenho trabalhado e acompanhar a minha evolução.
+Bem-vindo ao meu perfil do GitHub! Aqui poderás explorar alguns dos projetos em que tenho trabalhado e acompanhar a minha evolução. 
 
 ## Tecnologias e Linguagens
 
