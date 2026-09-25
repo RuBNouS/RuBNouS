@@ -15,11 +15,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui poderás explorar alguns dos projetos em
 
 
 ## Alguns dos meus Projetos
-
-
-* **[Simple-Blackjack-in-C](https://github.com/RuBNouS/Simple-Blackjack-in-C)**: Um jogo simples e clássico de Blackjack desenvolvido inteiramente na linguagem C.
-* **[Matricula-Finder](https://github.com/RuBNouS/Matricula-Finder)**: Um script/ferramenta construída em Python relacionada com pesquisa de matrículas.
-* **[Miracle-Sort](https://github.com/RuBNouS/Miracle-Sort)**: A minha implementação do famoso algoritmo de ordenação "Miracle Sort" em Python.
+meti tudo privado e tenho preguiça de meter publico
 
 ## Como entrar em contacto comigo
 
